@@ -1,1 +1,1 @@
-Speech-Suite our Project aims at creating PowerPoint Presentations via speech recognition and web-scraping. You dont have to create or type anything. Just speak out what you want and let our project do the rest for you (crate PPTs).
+Speech-Suite, our Project aims at creating PowerPoint Presentations via speech recognition and web-scraping. You dont have to create or type anything. Just speak out what you want and let our project do the rest for you (crate PPTs).
